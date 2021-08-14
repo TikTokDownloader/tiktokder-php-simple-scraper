@@ -1,0 +1,24 @@
+{
+    "name": "tiktokder/tiktokder-simple-scraper",
+    "type": "library",
+    "description": "A simple script that is used by https://tiktokder.com",
+    "keywords": ["tiktokder","tiktok downloader"],
+    "homepage": "https://tiktokder.com",
+    "authors": [
+        {
+            "name": "TikTokDer",
+            "email": "tiktoktrendsmanagement@gmail.com",
+            "homepage": "https://tiktokder.com",
+            "role": "Owner"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "TikTokDer\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
