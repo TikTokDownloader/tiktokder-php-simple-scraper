@@ -1,5 +1,6 @@
 {
     "name": "tiktokder/tiktokder-simple-scraper",
+    "license": "MIT",
     "type": "library",
     "description": "A simple script that is used by https://tiktokder.com",
     "keywords": ["tiktokder","tiktok downloader"],
