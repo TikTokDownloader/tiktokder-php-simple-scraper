@@ -20,5 +20,6 @@
         "psr-4": {
             "TikTokDer\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
